@@ -51,7 +51,9 @@ View [demo.ipynb](demo.ipynb) for how to use this toolbox.
 ## Recommended dataset split
 
 Use pin_2016_v1_0000.npy to pin_2016_v1_0097.npy as the training set.
+
 Use pin_2016_v1_0098.npy as the validation set.
+
 Use pin_2016_v1_0099.npy as the test set.
 
 ## License
