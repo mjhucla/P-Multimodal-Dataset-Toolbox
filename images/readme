@@ -1,0 +1,3 @@
+This is the default folder to save the images from Pinterest Multimodal dataset.
+Call download_images.py to download images and read the readme file at the root
+for more details.
