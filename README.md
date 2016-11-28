@@ -4,7 +4,7 @@ Created by [Junhua Mao](www.stat.ucla.edu/~junhua.mao)
 
 ## Introduction
 
-This is a toolbox to download and manage the released part of the Pinterest40M multimodal dataset introduced in the paper *Training and Evaluating Multimodal Word Embeddings with Large-scale Web Annotated Images* [Paper](https://papers.nips.cc/paper/6590-training-and-evaluating-multimodal-word-embeddings-with-large-scale-web-annotated-images).
+This is a toolbox to download and manage the released part of the Pinterest40M multimodal dataset introduced in the paper [Training and Evaluating Multimodal Word Embeddings with Large-scale Web Annotated Images](https://papers.nips.cc/paper/6590-training-and-evaluating-multimodal-word-embeddings-with-large-scale-web-annotated-images).
 More information can be found on the [Project Page](http://www.stat.
 ucla.edu/~junhua.mao/multimodal_embedding.html).
 
@@ -12,12 +12,12 @@ ucla.edu/~junhua.mao/multimodal_embedding.html).
 
 If you find this dataset or toolbox useful in your research, please cite:
 
-  @inproceedings{mao2016training,
-    title={Training and Evaluating Multimodal Word Embeddings with Large-scale Web Annotated Images},
-    author={Mao, Junhua and Xu, Jiajing and Jing, Yushi and Yuille, Alan},
-    booktitle={NIPS},
-    year={2016}
-  }
+    @inproceedings{mao2016training,
+      title={Training and Evaluating Multimodal Word Embeddings with Large-scale Web Annotated Images},
+      author={Mao, Junhua and Xu, Jiajing and Jing, Yushi and Yuille, Alan},
+      booktitle={NIPS},
+      year={2016}
+    }
 
 ## Toolbox Installation and Data Downloading
 ### Download and setup meta files.
@@ -42,11 +42,11 @@ Just re-run download_images.py if your downloading is shutted down unexpectedly.
 It is possible that you failed to access some of the urls at the first time.
 Re-run download_images.py to have another try.
 
-You are welcome to read *download_images.py* and *py_utils.py* for personalized and advanced downloading settings (e.g. see the docstring of py_utils.PinDataset.download_images).
+You are welcome to read [download_images.py](download_images.py) and [py_utils.py](py_utils.py) for personalized and advanced downloading settings (e.g. see the docstring of [py_utils.PinDataset.download_images](py_utils.py#L100-L150)).
 
 ## Demo
 
-View *demo.ipynb* for how to use this toolbox.
+View [demo.ipynb](demo.ipynb) for how to use this toolbox.
 
 ## Recommended dataset split
 
