@@ -48,7 +48,7 @@ You are welcome to read [download_images.py](download_images.py) and [py_utils.p
 
 View [demo.ipynb](demo.ipynb) for how to use this toolbox.
 
-## Recommended dataset split
+## Recommended Dataset Split
 
 Use pin_2016_v1_0000.npy to pin_2016_v1_0097.npy as the training set.
 
