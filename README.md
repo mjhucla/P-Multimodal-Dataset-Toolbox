@@ -5,8 +5,7 @@ Created by [Junhua Mao](www.stat.ucla.edu/~junhua.mao)
 ## Introduction
 
 This is a toolbox to download and manage the released part of the Pinterest40M multimodal dataset introduced in the paper [Training and Evaluating Multimodal Word Embeddings with Large-scale Web Annotated Images](https://papers.nips.cc/paper/6590-training-and-evaluating-multimodal-word-embeddings-with-large-scale-web-annotated-images).
-More information can be found on the [Project Page](http://www.stat.
-ucla.edu/~junhua.mao/multimodal_embedding.html).
+More information can be found on the [Project Page](http://www.stat.ucla.edu/~junhua.mao/multimodal_embedding.html).
 
 ## Cite
 
